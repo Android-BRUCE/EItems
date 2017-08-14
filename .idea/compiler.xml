@@ -6,11 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="EItems" />
+        <module name="EItems-common" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="EItems" target="1.5" />
+      <module name="EItems" target="1.7" />
+      <module name="EItems-common" target="1.7" />
+      <module name="EItems-manager" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

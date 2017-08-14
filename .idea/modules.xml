@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/EItems.iml" filepath="$PROJECT_DIR$/EItems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EItems-common/EItems-common.iml" filepath="$PROJECT_DIR$/EItems-common/EItems-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EItems-manager/EItems-manager.iml" filepath="$PROJECT_DIR$/EItems-manager/EItems-manager.iml" />
     </modules>
   </component>
 </project>
